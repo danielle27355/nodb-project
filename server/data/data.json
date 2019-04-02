@@ -1,0 +1,108 @@
+{
+    "page": 1,
+    "total_results": 10,
+    "total_pages" : 1,
+    "results" :[
+        {
+            "id" : 1,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Switzerland",
+            "your_occupation" : "Program Manager",
+            "your_hobbies" : "Playing the guitar",
+            "personality_type" : "",
+            "image_path" : "https://bit.ly/2FJzgjg"
+        },
+        {
+            "id" : 2,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Sudan",
+            "your_occupation" : "Hotel Owner",
+            "your_hobbies" : "Archery",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 3,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Saudi Arabia",
+            "your_occupation" : "Chef",
+            "your_hobbies" : "Playing Super Smash Bros",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 4,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "China",
+            "your_occupation" : "Scientist",
+            "your_hobbies" : "Karaoke",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 5,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Canada",
+            "your_occupation" : "Electrical Engineer",
+            "your_hobbies" : "Watching anime",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 6,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Mexico",
+            "your_occupation" : "Nurse",
+            "your_hobbies" : "Martial arts",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 7,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Pakistan",
+            "your_occupation" : "Musician",
+            "your_hobbies" : "Eating",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 8,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Poland",
+            "your_occupation" : "Restaurant Manager",
+            "your_hobbies" : "Metal detecting",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 9,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Colombia",
+            "your_occupation" : "Barista",
+            "your_hobbies" : "Building websites",
+            "personality_type" : "",
+            "image_path" : "image"
+        },
+        {
+            "id" : 10,
+            "universe_name" : "",
+            "your_name" : "",
+            "your_country" : "Costa Rica",
+            "your_occupation" : "Math Teacher",
+            "your_hobbies" : "Running marathons",
+            "personality_type" : "",
+            "image_path" : "image"
+        }
+
+    ]
+}
